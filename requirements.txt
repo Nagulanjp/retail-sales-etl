@@ -1,0 +1,4 @@
+pandas>=2.2,<4
+pyarrow>=18,<30
+openpyxl>=3.1,<5
+duckdb>=2.0,<3
