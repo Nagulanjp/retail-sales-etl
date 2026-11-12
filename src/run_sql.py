@@ -4,7 +4,7 @@ import duckdb
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-QUERY_FILE = PROJECT_ROOT / "sql" / "monthly_sales.sql"
+QUERY_FILE = PROJECT_ROOT / "sql" / "data_quality_summary.sql"
 
 
 if __name__ == "__main__":
